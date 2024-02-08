@@ -10,3 +10,4 @@
 9. 前端 如果有權限顯示後台按鈕
 10. 後端 只有SUPER_ADMIN有權限使用Meal
 ## 黏玉橙都不建模
+https://chat.openai.com/share/cd12d70f-5136-412b-90c3-f8e1ef74103e
