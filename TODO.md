@@ -1,4 +1,4 @@
-## TODO:
+## 上學期TODO
 1. 前端 Meal Page可查看30天
 2. 前端 查看popup 調取後端 getMealDetailed (404: 創建空陣列)
 3. 前端 把確定改成PUT，後端 也改PUT
@@ -11,6 +11,20 @@
 10. 後端 只有SUPER_ADMIN有權限使用Meal
 11. Line通知
 12. meals page 資料改成從後端get
+## 下學期TODO
+一起：
+1. 後端資安升級
+2. 前後端程式重構(前端改typescript)
+3. OAuth
+4. 規格書(統一 schema、錯誤處理、日期格式統一)
+5. 登入token 期限
+6. Line token 設計
+7. 創多一點staging
+8. 菜單資料庫重構
+9. 錄製程式影片上傳yt(順便做學習歷程)
+周奕宇：
+1. APCS練題
+october：
 ## 黏玉橙都不建模
 https://chat.openai.com/share/cd12d70f-5136-412b-90c3-f8e1ef74103e 
 "嘿，黏玉橙，我對你的拖延感到極度不滿。我們不僅討論了一起進行3D建模的計劃，而且你還承諾要一起做遊戲。然而，目前我看到的只有一個空洞的承諾，一點實質的進展都沒有。
