@@ -11,7 +11,7 @@
 10. 後端 只有SUPER_ADMIN有權限使用Meal
 11. Line通知
 12. meals page 資料改成從後端get
-## 下學期TODO
+## 下學期Todo
 一起：
 1. 後端資安升級
 2. 前後端程式重構(前端改typescript)
@@ -22,6 +22,8 @@
 7. 創多一點staging
 8. 菜單資料庫重構
 9. 錄製程式影片上傳yt(順便做學習歷程)
+10. 寫測試
+11. 處理fetch race condition (use react query)
 周奕宇：
 1. APCS練題
 october：
