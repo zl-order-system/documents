@@ -18,3 +18,5 @@ const zGetStuffReq: z.ZodSchema<GetStuffReq> = {
     stuff: string
 }
 ```
+### 圖片
+1. 請不要使用inline svg或base64
