@@ -1,5 +1,5 @@
 ## TODO
-1. 把pycache, EX_PDF 和 .DS_Store 放進 .gitignore
+1. 讓爬蟲在遇到HTTP錯誤時向gh actions報錯
 2. 寫測試
 3. 規格書(統一 schema、錯誤處理、日期格式統一)
 4. 前端程式重構(前臺全面改typescript)
